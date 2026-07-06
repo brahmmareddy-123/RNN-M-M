@@ -1,0 +1,20 @@
+machine learning is a subset of artificial intelligence
+deep learning is a branch of machine learning
+artificial intelligence is transforming the world
+python is a popular programming language
+data science uses machine learning algorithms
+tensorflow is an open source deep learning library
+keras is a high level api for tensorflow
+streamlit helps build machine learning applications
+natural language processing deals with text data
+recurrent neural networks process sequential data
+simple rnn is useful for sequence modeling
+long short term memory solves long dependency problems
+gated recurrent unit is another recurrent network
+india is a beautiful country
+i love india
+i love machine learning
+i enjoy deep learning
+chatgpt helps developers learn artificial intelligence
+data analysis is an important skill
+python is easy to learn
